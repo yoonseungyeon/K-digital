@@ -1,1 +1,1 @@
-# K-digital
+# kustomize
