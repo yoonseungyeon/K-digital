@@ -18,7 +18,7 @@ spec:
         app: demo-nginx
     spec:
       containers:
-      - image: 975050215788.dkr.ecr.ap-northeast-2.amazonaws.com/eks-demo-repo:838
+      - image: 975050215788.dkr.ecr.ap-northeast-2.amazonaws.com/eks-demo-repo:839
         name: ipnginx
         ports: 
         - containerPort: 80
